@@ -1,6 +1,8 @@
 #![windows_subsystem = "windows"]
 
+mod assets;
 mod fps;
+mod sprite;
 
 use sdl3::{
 	event::Event,
