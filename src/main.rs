@@ -2,6 +2,8 @@
 
 mod assets;
 mod fps;
+mod object;
+mod physics;
 mod sprite;
 
 use sdl3::{
